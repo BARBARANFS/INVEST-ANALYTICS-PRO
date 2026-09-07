@@ -71,6 +71,27 @@ A concentração dos recursos em duas abas foi adotada para tornar a utilizaçã
 
 ---
 
+## 🎥 Demonstração da ferramenta
+
+### 📋 Base de produtos e análise da evolução
+
+A ferramenta utiliza uma base estruturada de produtos de investimento como fonte para a seleção e configuração dos cenários de simulação.
+
+A mesma estrutura permite relacionar os produtos às projeções financeiras e visualizar graficamente a evolução do investimento ao longo do período analisado.
+
+![Base de produtos e evolução do investimento](imagens/base-produtos-grafico.png)
+
+A visualização apresenta a evolução de:
+
+- **Patrimônio Total**;
+- **Investimento Acumulado**;
+- **Rendimentos Acumulados**.
+
+O gráfico permite observar como os aportes e os rendimentos contribuem para a formação do patrimônio projetado ao longo dos meses.
+
+---
+
+
 ## 📊 Indicadores
 
 A ferramenta apresenta uma visão consolidada dos principais resultados da simulação:
