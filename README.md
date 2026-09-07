@@ -2,6 +2,8 @@
 
 ## Simulador Inteligente de Investimentos
 
+![Capa do INVEST ANALYTICS PRO](imagens/capa-invest-analytics-pro.png)
+
 Ferramenta desenvolvida em **Microsoft Excel** para simulação e análise de diferentes cenários de investimento, permitindo projetar aportes, rendimentos e patrimônio ao longo do tempo.
 
 Projeto desenvolvido como parte do desafio da formação **Análise de Dados com Excel e IA da DIO**.
@@ -52,6 +54,8 @@ A versão final foi organizada em **duas abas**:
 - orientações de utilização;
 - visão geral da solução.
 
+![Tela inicial do INVEST ANALYTICS PRO](imagens/HOME.png)
+
 ### 📈 Simulação
 
 Área principal da ferramenta, onde estão concentrados:
@@ -92,6 +96,8 @@ O gráfico permite acompanhar a evolução de três componentes:
 - **Rendimentos Acumulados**
 
 A visualização facilita a interpretação da relação entre o capital investido, os rendimentos gerados e o patrimônio projetado.
+
+![Tela de simulação do INVEST ANALYTICS PRO](imagens/simulacao.png)
 
 ---
 
@@ -166,7 +172,7 @@ INVEST-ANALYTICS-PRO/
 │
 ├── INVEST_ANALYTICS_PRO.xlsx
 │
-└── images/
+└── imagens/
     └── ...
 ```
 
