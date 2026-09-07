@@ -79,7 +79,7 @@ A ferramenta utiliza uma base estruturada de produtos de investimento como fonte
 
 A mesma estrutura permite relacionar os produtos às projeções financeiras e visualizar graficamente a evolução do investimento ao longo do período analisado.
 
-![Base de produtos e evolução do investimento](imagens/base-produtos-grafico.png)
+![Base de produtos e evolução do investimento](imagens/base-produtos-evolucao-investimento.png)
 
 A visualização apresenta a evolução de:
 
